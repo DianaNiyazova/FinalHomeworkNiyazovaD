@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\obj\Debug\net6.0\FinalHomeworkNiyazovaD.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\obj\Debug\net6.0\FinalHomeworkNiyazovaD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\obj\Debug\net6.0\FinalHomeworkNiyazovaD.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\obj\Debug\net6.0\FinalHomeworkNiyazovaD.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\obj\Debug\net6.0\FinalHomeworkNiyazovaD.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\bin\Debug\net6.0\FinalHomeworkNiyazovaD.exe
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\bin\Debug\net6.0\FinalHomeworkNiyazovaD.deps.json
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\bin\Debug\net6.0\FinalHomeworkNiyazovaD.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\bin\Debug\net6.0\FinalHomeworkNiyazovaD.dll
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\bin\Debug\net6.0\FinalHomeworkNiyazovaD.pdb
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\obj\Debug\net6.0\FinalHomeworkNiyazovaD.dll
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\obj\Debug\net6.0\refint\FinalHomeworkNiyazovaD.dll
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\obj\Debug\net6.0\FinalHomeworkNiyazovaD.pdb
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\obj\Debug\net6.0\FinalHomeworkNiyazovaD.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Итоговое ДЗ НиязоваД\FinalHomeworkNiyazovaD\obj\Debug\net6.0\ref\FinalHomeworkNiyazovaD.dll
