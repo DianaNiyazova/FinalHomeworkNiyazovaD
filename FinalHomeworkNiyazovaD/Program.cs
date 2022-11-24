@@ -6,6 +6,7 @@ List<string> termslist = new List<string>();
 for (int i = 0; i < a.Length; i++)
     if (a[i].Length <= 3)
     {
-        Console.WriteLine("[0}", string.Join(",", termslist));
         termslist.Add(a[i]);
     }
+    
+Console.WriteLine("[{0}]", string.Join(",", termslist));
